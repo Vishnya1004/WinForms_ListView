@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <book>
+    <id>id_1</id>
+    <autorFName>FName_1</autorFName>
+    <autorLName>LName_1</autorLName>
+    <title>Title_1</title>
+  </book>
+  <book>
+    <id>id_2</id>
+    <autorFName>FName_2</autorFName>
+    <autorLName>LName_2</autorLName>
+    <title>Title_2</title>
+  </book>
+</root>
