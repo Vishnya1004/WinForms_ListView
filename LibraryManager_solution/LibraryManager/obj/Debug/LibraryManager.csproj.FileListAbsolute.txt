@@ -1,0 +1,11 @@
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\bin\Debug\LibraryManager.exe.config
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.Cache
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.exe
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.pdb
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.MainWindow.resources
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.Form_AddBook.resources
+C:\Users\MARINA\Documents\GitHub\WinForms_ListView\LibraryManager_solution\LibraryManager\obj\Debug\LibraryManager.Form_EditItem.resources

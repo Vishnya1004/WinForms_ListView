@@ -1,15 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <book>
-    <id>id_1</id>
-    <autorFName>FName_1</autorFName>
-    <autorLName>LName_1</autorLName>
-    <title>Title_1</title>
+    <id>01</id>
+    <autorFName>Joanne</autorFName>
+    <autorLName>Rowling</autorLName>
+    <title>Harry Potter</title>
   </book>
   <book>
-    <id>id_2</id>
-    <autorFName>FName_2</autorFName>
-    <autorLName>LName_2</autorLName>
-    <title>Title_2</title>
+    <id>02-1</id>
+    <autorFName>Joanne02-1</autorFName>
+    <autorLName>Rowling02-1</autorLName>
+    <title>Harry Potter02-1</title>
   </book>
 </root>
